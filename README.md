@@ -20,11 +20,6 @@ To build an eternal, immutable digital castle where every artifact is a memory p
 - Enable encrypted memory storage.
 - Introduce role-based access for collaborative memory building.
 
-## 📄 Contract Details
-- **Contract Name:** MemoryCastleCollection
-- **Deployed Address:** *[To be filled by Judy]*
-- **Network:** Core Blockchain Testnet
-- **Deployer:** *[To be filled by Judy]*
 
 
 
