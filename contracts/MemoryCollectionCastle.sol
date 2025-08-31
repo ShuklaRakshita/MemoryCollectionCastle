@@ -47,7 +47,7 @@ contract MemoryCastleCollection {
         owner = newOwner;
     }
 
-    // 🔍 New function: Find the index of an artifact by its content
+    // 🔍 New function: Find the index of an artifact by its content updated
     function findArtifactIndex(string memory artifact) public view returns (int256) {
         for (uint256 i = 0; i < memoryArtifacts.length; i++) {
             if (keccak256(bytes(memoryArtifacts[i])) == keccak256(bytes(artifact))) {
